@@ -4,4 +4,6 @@ I have built it in testrepo1, I will stage it, commit it and push it before merg
 
 This is to test my gitgutter in vim.
 
-This is also some new text
+This is some intersting text
+This is some interesting Additions
+This is also some intersting additions
